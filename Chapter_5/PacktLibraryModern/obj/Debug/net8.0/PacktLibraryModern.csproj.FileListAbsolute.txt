@@ -1,0 +1,11 @@
+C:\Users\VLAAA\OneDrive\Рабочий стол\Chapter_5\PacktLibraryModern\bin\Debug\net8.0\PacktLibraryModern.deps.json
+C:\Users\VLAAA\OneDrive\Рабочий стол\Chapter_5\PacktLibraryModern\bin\Debug\net8.0\PacktLibraryModern.dll
+C:\Users\VLAAA\OneDrive\Рабочий стол\Chapter_5\PacktLibraryModern\bin\Debug\net8.0\PacktLibraryModern.pdb
+C:\Users\VLAAA\OneDrive\Рабочий стол\Chapter_5\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VLAAA\OneDrive\Рабочий стол\Chapter_5\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.AssemblyInfoInputs.cache
+C:\Users\VLAAA\OneDrive\Рабочий стол\Chapter_5\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.AssemblyInfo.cs
+C:\Users\VLAAA\OneDrive\Рабочий стол\Chapter_5\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.csproj.CoreCompileInputs.cache
+C:\Users\VLAAA\OneDrive\Рабочий стол\Chapter_5\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.dll
+C:\Users\VLAAA\OneDrive\Рабочий стол\Chapter_5\PacktLibraryModern\obj\Debug\net8.0\refint\PacktLibraryModern.dll
+C:\Users\VLAAA\OneDrive\Рабочий стол\Chapter_5\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.pdb
+C:\Users\VLAAA\OneDrive\Рабочий стол\Chapter_5\PacktLibraryModern\obj\Debug\net8.0\ref\PacktLibraryModern.dll
