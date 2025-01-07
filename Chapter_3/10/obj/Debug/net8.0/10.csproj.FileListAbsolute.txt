@@ -1,0 +1,14 @@
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_3/10/obj/Debug/net8.0/10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_3/10/obj/Debug/net8.0/10.AssemblyInfoInputs.cache
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_3/10/obj/Debug/net8.0/10.AssemblyInfo.cs
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_3/10/obj/Debug/net8.0/10.csproj.CoreCompileInputs.cache
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_3/10/bin/Debug/net8.0/10
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_3/10/bin/Debug/net8.0/10.deps.json
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_3/10/bin/Debug/net8.0/10.runtimeconfig.json
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_3/10/bin/Debug/net8.0/10.dll
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_3/10/bin/Debug/net8.0/10.pdb
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_3/10/obj/Debug/net8.0/10.dll
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_3/10/obj/Debug/net8.0/refint/10.dll
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_3/10/obj/Debug/net8.0/10.pdb
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_3/10/obj/Debug/net8.0/10.genruntimeconfig.cache
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_3/10/obj/Debug/net8.0/ref/10.dll

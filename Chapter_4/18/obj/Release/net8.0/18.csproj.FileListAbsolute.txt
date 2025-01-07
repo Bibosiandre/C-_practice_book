@@ -1,0 +1,4 @@
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_4/18/obj/Release/net8.0/18.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_4/18/obj/Release/net8.0/18.AssemblyInfoInputs.cache
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_4/18/obj/Release/net8.0/18.AssemblyInfo.cs
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_4/18/obj/Release/net8.0/18.csproj.CoreCompileInputs.cache

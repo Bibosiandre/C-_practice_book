@@ -1,0 +1,14 @@
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_4/18/bin/Debug/net8.0/18
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_4/18/bin/Debug/net8.0/18.deps.json
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_4/18/bin/Debug/net8.0/18.runtimeconfig.json
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_4/18/bin/Debug/net8.0/18.dll
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_4/18/bin/Debug/net8.0/18.pdb
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_4/18/obj/Debug/net8.0/18.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_4/18/obj/Debug/net8.0/18.AssemblyInfoInputs.cache
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_4/18/obj/Debug/net8.0/18.AssemblyInfo.cs
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_4/18/obj/Debug/net8.0/18.csproj.CoreCompileInputs.cache
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_4/18/obj/Debug/net8.0/18.dll
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_4/18/obj/Debug/net8.0/refint/18.dll
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_4/18/obj/Debug/net8.0/18.pdb
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_4/18/obj/Debug/net8.0/18.genruntimeconfig.cache
+/Users/kuznetsova.aa/Desktop/C#_book/Chapter_4/18/obj/Debug/net8.0/ref/18.dll

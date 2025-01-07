@@ -1,0 +1,15 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":"csharp","items":[{"aliases":[],"languageName":"csharp","name":"csharp"}]}}
+
+#!csharp
+
+Console.WriteLine("Hello, .NET:Interactive!");
+
+#!markdown
+
+Mixing *rich* **text** and code is cool!
+
+#!csharp
+
+#!about
