@@ -1,0 +1,15 @@
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithJson\bin\Debug\net8.0\WorkingWithJson.exe
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithJson\bin\Debug\net8.0\WorkingWithJson.deps.json
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithJson\bin\Debug\net8.0\WorkingWithJson.runtimeconfig.json
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithJson\bin\Debug\net8.0\WorkingWithJson.dll
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithJson\bin\Debug\net8.0\WorkingWithJson.pdb
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithJson\obj\Debug\net8.0\WorkingWithJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithJson\obj\Debug\net8.0\WorkingWithJson.AssemblyInfoInputs.cache
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithJson\obj\Debug\net8.0\WorkingWithJson.AssemblyInfo.cs
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithJson\obj\Debug\net8.0\WorkingWithJson.csproj.CoreCompileInputs.cache
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithJson\obj\Debug\net8.0\WorkingWithJson.sourcelink.json
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithJson\obj\Debug\net8.0\WorkingWithJson.dll
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithJson\obj\Debug\net8.0\refint\WorkingWithJson.dll
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithJson\obj\Debug\net8.0\WorkingWithJson.pdb
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithJson\obj\Debug\net8.0\WorkingWithJson.genruntimeconfig.cache
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithJson\obj\Debug\net8.0\ref\WorkingWithJson.dll

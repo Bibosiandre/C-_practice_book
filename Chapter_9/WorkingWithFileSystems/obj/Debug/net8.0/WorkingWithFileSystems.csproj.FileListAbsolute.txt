@@ -1,0 +1,5 @@
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithFileSystems\obj\Debug\net8.0\WorkingWithFileSystems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithFileSystems\obj\Debug\net8.0\WorkingWithFileSystems.AssemblyInfoInputs.cache
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithFileSystems\obj\Debug\net8.0\WorkingWithFileSystems.AssemblyInfo.cs
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithFileSystems\obj\Debug\net8.0\WorkingWithFileSystems.csproj.CoreCompileInputs.cache
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithFileSystems\obj\Debug\net8.0\WorkingWithFileSystems.sourcelink.json

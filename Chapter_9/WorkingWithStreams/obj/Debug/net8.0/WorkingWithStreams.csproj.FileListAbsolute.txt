@@ -1,0 +1,15 @@
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithStreams\bin\Debug\net8.0\WorkingWithStreams.exe
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithStreams\bin\Debug\net8.0\WorkingWithStreams.deps.json
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithStreams\bin\Debug\net8.0\WorkingWithStreams.runtimeconfig.json
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithStreams\bin\Debug\net8.0\WorkingWithStreams.dll
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithStreams\bin\Debug\net8.0\WorkingWithStreams.pdb
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithStreams\obj\Debug\net8.0\WorkingWithStreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithStreams\obj\Debug\net8.0\WorkingWithStreams.AssemblyInfoInputs.cache
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithStreams\obj\Debug\net8.0\WorkingWithStreams.AssemblyInfo.cs
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithStreams\obj\Debug\net8.0\WorkingWithStreams.csproj.CoreCompileInputs.cache
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithStreams\obj\Debug\net8.0\WorkingWithStreams.sourcelink.json
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithStreams\obj\Debug\net8.0\WorkingWithStreams.dll
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithStreams\obj\Debug\net8.0\refint\WorkingWithStreams.dll
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithStreams\obj\Debug\net8.0\WorkingWithStreams.pdb
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithStreams\obj\Debug\net8.0\WorkingWithStreams.genruntimeconfig.cache
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_9\WorkingWithStreams\obj\Debug\net8.0\ref\WorkingWithStreams.dll
