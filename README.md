@@ -7,3 +7,4 @@ C#_practice_book
 5. Практическая работа с DLL бибилотеками / Practical work with DLL libraries
 6. Реализация интерфейсов и наследование классов / Implementing interfaces and class inheritance
 9. Работа с файлами, потоками и сериализация / Working with Files, Streams, and Serialization
+10.Работа с данными с использованием Entity Framework Core и SQLite / Working with data using Entity Framework Core and SQLite
