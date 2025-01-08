@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\Chapter_5\\PeopleApp\\PeopleApp.csproj": {}
+    "c:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\enterprise-plan\\C_sharp_practice_book\\Chapter_5\\PeopleApp\\PeopleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\Chapter_5\\PacktLibraryModern\\PacktLibraryModern.csproj": {
+    "c:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\enterprise-plan\\C_sharp_practice_book\\Chapter_5\\PacktLibraryModern\\PacktLibraryModern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\Chapter_5\\PacktLibraryModern\\PacktLibraryModern.csproj",
+        "projectUniqueName": "c:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\enterprise-plan\\C_sharp_practice_book\\Chapter_5\\PacktLibraryModern\\PacktLibraryModern.csproj",
         "projectName": "PacktLibraryModern",
-        "projectPath": "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\Chapter_5\\PacktLibraryModern\\PacktLibraryModern.csproj",
+        "projectPath": "c:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\enterprise-plan\\C_sharp_practice_book\\Chapter_5\\PacktLibraryModern\\PacktLibraryModern.csproj",
         "packagesPath": "C:\\Users\\VLAAA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\Chapter_5\\PacktLibraryModern\\obj\\",
+        "outputPath": "c:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\enterprise-plan\\C_sharp_practice_book\\Chapter_5\\PacktLibraryModern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VLAAA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\Chapter_5\\PacktLibrary\\PacktLibrary.csproj": {
+    "c:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\enterprise-plan\\C_sharp_practice_book\\Chapter_5\\PacktLibrary\\PacktLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\Chapter_5\\PacktLibrary\\PacktLibrary.csproj",
+        "projectUniqueName": "c:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\enterprise-plan\\C_sharp_practice_book\\Chapter_5\\PacktLibrary\\PacktLibrary.csproj",
         "projectName": "PacktLibrary",
-        "projectPath": "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\Chapter_5\\PacktLibrary\\PacktLibrary.csproj",
+        "projectPath": "c:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\enterprise-plan\\C_sharp_practice_book\\Chapter_5\\PacktLibrary\\PacktLibrary.csproj",
         "packagesPath": "C:\\Users\\VLAAA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\Chapter_5\\PacktLibrary\\obj\\",
+        "outputPath": "c:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\enterprise-plan\\C_sharp_practice_book\\Chapter_5\\PacktLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VLAAA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -124,14 +124,14 @@
         }
       }
     },
-    "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\Chapter_5\\PeopleApp\\PeopleApp.csproj": {
+    "c:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\enterprise-plan\\C_sharp_practice_book\\Chapter_5\\PeopleApp\\PeopleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\Chapter_5\\PeopleApp\\PeopleApp.csproj",
+        "projectUniqueName": "c:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\enterprise-plan\\C_sharp_practice_book\\Chapter_5\\PeopleApp\\PeopleApp.csproj",
         "projectName": "PeopleApp",
-        "projectPath": "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\Chapter_5\\PeopleApp\\PeopleApp.csproj",
+        "projectPath": "c:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\enterprise-plan\\C_sharp_practice_book\\Chapter_5\\PeopleApp\\PeopleApp.csproj",
         "packagesPath": "C:\\Users\\VLAAA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\Chapter_5\\PeopleApp\\obj\\",
+        "outputPath": "c:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\enterprise-plan\\C_sharp_practice_book\\Chapter_5\\PeopleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VLAAA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -148,11 +148,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\Chapter_5\\PacktLibraryModern\\PacktLibraryModern.csproj": {
-                "projectPath": "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\Chapter_5\\PacktLibraryModern\\PacktLibraryModern.csproj"
+              "c:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\enterprise-plan\\C_sharp_practice_book\\Chapter_5\\PacktLibraryModern\\PacktLibraryModern.csproj": {
+                "projectPath": "c:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\enterprise-plan\\C_sharp_practice_book\\Chapter_5\\PacktLibraryModern\\PacktLibraryModern.csproj"
               },
-              "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\Chapter_5\\PacktLibrary\\PacktLibrary.csproj": {
-                "projectPath": "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\Chapter_5\\PacktLibrary\\PacktLibrary.csproj"
+              "c:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\enterprise-plan\\C_sharp_practice_book\\Chapter_5\\PacktLibrary\\PacktLibrary.csproj": {
+                "projectPath": "c:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\enterprise-plan\\C_sharp_practice_book\\Chapter_5\\PacktLibrary\\PacktLibrary.csproj"
               }
             }
           }

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CodeAnalyzing</name>
+    </assembly>
+    <members>
+        <member name="T:CodeAnalyzing.Program">
+            <summary>
+            Основной класс этого консольного приложения.
+            </summary>
+        </member>
+        <member name="M:CodeAnalyzing.Program.Main(System.String[])">
+            <summary>
+            Основная точка входа для этого консольного приложения.
+            </summary>
+            <param name="args">Строковый массив аргументов, передаваемый консольному приложению.</param>
+        </member>
+    </members>
+</doc>

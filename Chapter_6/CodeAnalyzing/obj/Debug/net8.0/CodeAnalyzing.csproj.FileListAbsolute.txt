@@ -1,0 +1,17 @@
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\CodeAnalyzing\bin\Debug\net8.0\CodeAnalyzing.exe
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\CodeAnalyzing\bin\Debug\net8.0\CodeAnalyzing.deps.json
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\CodeAnalyzing\bin\Debug\net8.0\CodeAnalyzing.runtimeconfig.json
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\CodeAnalyzing\bin\Debug\net8.0\CodeAnalyzing.dll
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\CodeAnalyzing\bin\Debug\net8.0\CodeAnalyzing.pdb
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\CodeAnalyzing\bin\Debug\net8.0\CodeAnalyzing.xml
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\CodeAnalyzing\obj\Debug\net8.0\CodeAnalyzing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\CodeAnalyzing\obj\Debug\net8.0\CodeAnalyzing.AssemblyInfoInputs.cache
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\CodeAnalyzing\obj\Debug\net8.0\CodeAnalyzing.AssemblyInfo.cs
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\CodeAnalyzing\obj\Debug\net8.0\CodeAnalyzing.csproj.CoreCompileInputs.cache
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\CodeAnalyzing\obj\Debug\net8.0\CodeAnalyzing.sourcelink.json
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\CodeAnalyzing\obj\Debug\net8.0\CodeAnalyzing.dll
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\CodeAnalyzing\obj\Debug\net8.0\refint\CodeAnalyzing.dll
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\CodeAnalyzing\obj\Debug\net8.0\CodeAnalyzing.xml
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\CodeAnalyzing\obj\Debug\net8.0\CodeAnalyzing.pdb
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\CodeAnalyzing\obj\Debug\net8.0\CodeAnalyzing.genruntimeconfig.cache
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\CodeAnalyzing\obj\Debug\net8.0\ref\CodeAnalyzing.dll

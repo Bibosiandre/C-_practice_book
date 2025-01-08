@@ -1,0 +1,15 @@
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\NullHandling\bin\Debug\net8.0\NullHandling.exe
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\NullHandling\bin\Debug\net8.0\NullHandling.deps.json
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\NullHandling\bin\Debug\net8.0\NullHandling.runtimeconfig.json
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\NullHandling\bin\Debug\net8.0\NullHandling.dll
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\NullHandling\bin\Debug\net8.0\NullHandling.pdb
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\NullHandling\obj\Debug\net8.0\NullHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\NullHandling\obj\Debug\net8.0\NullHandling.AssemblyInfoInputs.cache
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\NullHandling\obj\Debug\net8.0\NullHandling.AssemblyInfo.cs
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\NullHandling\obj\Debug\net8.0\NullHandling.csproj.CoreCompileInputs.cache
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\NullHandling\obj\Debug\net8.0\NullHandling.sourcelink.json
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\NullHandling\obj\Debug\net8.0\NullHandling.dll
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\NullHandling\obj\Debug\net8.0\refint\NullHandling.dll
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\NullHandling\obj\Debug\net8.0\NullHandling.pdb
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\NullHandling\obj\Debug\net8.0\NullHandling.genruntimeconfig.cache
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_6\NullHandling\obj\Debug\net8.0\ref\NullHandling.dll

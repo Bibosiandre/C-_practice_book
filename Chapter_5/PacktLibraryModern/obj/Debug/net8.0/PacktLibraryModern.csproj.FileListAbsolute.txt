@@ -9,3 +9,15 @@ C:\Users\VLAAA\OneDrive\Рабочий стол\Chapter_5\PacktLibraryModern\obj
 C:\Users\VLAAA\OneDrive\Рабочий стол\Chapter_5\PacktLibraryModern\obj\Debug\net8.0\refint\PacktLibraryModern.dll
 C:\Users\VLAAA\OneDrive\Рабочий стол\Chapter_5\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.pdb
 C:\Users\VLAAA\OneDrive\Рабочий стол\Chapter_5\PacktLibraryModern\obj\Debug\net8.0\ref\PacktLibraryModern.dll
+c:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_5\PacktLibraryModern\bin\Debug\net8.0\PacktLibraryModern.deps.json
+c:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_5\PacktLibraryModern\bin\Debug\net8.0\PacktLibraryModern.dll
+c:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_5\PacktLibraryModern\bin\Debug\net8.0\PacktLibraryModern.pdb
+c:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_5\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_5\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.AssemblyInfoInputs.cache
+c:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_5\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.AssemblyInfo.cs
+c:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_5\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.csproj.CoreCompileInputs.cache
+c:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_5\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.sourcelink.json
+c:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_5\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.dll
+c:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_5\PacktLibraryModern\obj\Debug\net8.0\refint\PacktLibraryModern.dll
+c:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_5\PacktLibraryModern\obj\Debug\net8.0\PacktLibraryModern.pdb
+c:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_5\PacktLibraryModern\obj\Debug\net8.0\ref\PacktLibraryModern.dll

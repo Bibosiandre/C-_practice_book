@@ -9,3 +9,15 @@ C:\Users\VLAAA\OneDrive\Рабочий стол\Chapter_5\PacktLibrary\obj\Debug
 C:\Users\VLAAA\OneDrive\Рабочий стол\Chapter_5\PacktLibrary\obj\Debug\net8.0\refint\PacktLibrary.dll
 C:\Users\VLAAA\OneDrive\Рабочий стол\Chapter_5\PacktLibrary\obj\Debug\net8.0\PacktLibrary.pdb
 C:\Users\VLAAA\OneDrive\Рабочий стол\Chapter_5\PacktLibrary\obj\Debug\net8.0\ref\PacktLibrary.dll
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_5\PacktLibrary\bin\Debug\net8.0\PacktLibrary.deps.json
+c:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_5\PacktLibrary\bin\Debug\net8.0\PacktLibrary.dll
+c:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_5\PacktLibrary\bin\Debug\net8.0\PacktLibrary.pdb
+c:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_5\PacktLibrary\obj\Debug\net8.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_5\PacktLibrary\obj\Debug\net8.0\PacktLibrary.AssemblyInfoInputs.cache
+c:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_5\PacktLibrary\obj\Debug\net8.0\PacktLibrary.AssemblyInfo.cs
+c:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_5\PacktLibrary\obj\Debug\net8.0\PacktLibrary.csproj.CoreCompileInputs.cache
+c:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_5\PacktLibrary\obj\Debug\net8.0\PacktLibrary.sourcelink.json
+c:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_5\PacktLibrary\obj\Debug\net8.0\PacktLibrary.dll
+c:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_5\PacktLibrary\obj\Debug\net8.0\refint\PacktLibrary.dll
+c:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_5\PacktLibrary\obj\Debug\net8.0\PacktLibrary.pdb
+C:\Users\VLAAA\OneDrive\Рабочий стол\enterprise-plan\C_sharp_practice_book\Chapter_5\PacktLibrary\obj\Debug\net8.0\ref\PacktLibrary.dll

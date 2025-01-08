@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\Chapter_5\\PacktLibraryModern\\PacktLibraryModern.csproj": {}
+    "c:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\enterprise-plan\\C_sharp_practice_book\\Chapter_5\\PacktLibraryModern\\PacktLibraryModern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\Chapter_5\\PacktLibraryModern\\PacktLibraryModern.csproj": {
+    "c:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\enterprise-plan\\C_sharp_practice_book\\Chapter_5\\PacktLibraryModern\\PacktLibraryModern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\Chapter_5\\PacktLibraryModern\\PacktLibraryModern.csproj",
+        "projectUniqueName": "c:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\enterprise-plan\\C_sharp_practice_book\\Chapter_5\\PacktLibraryModern\\PacktLibraryModern.csproj",
         "projectName": "PacktLibraryModern",
-        "projectPath": "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\Chapter_5\\PacktLibraryModern\\PacktLibraryModern.csproj",
+        "projectPath": "c:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\enterprise-plan\\C_sharp_practice_book\\Chapter_5\\PacktLibraryModern\\PacktLibraryModern.csproj",
         "packagesPath": "C:\\Users\\VLAAA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\Chapter_5\\PacktLibraryModern\\obj\\",
+        "outputPath": "c:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\enterprise-plan\\C_sharp_practice_book\\Chapter_5\\PacktLibraryModern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VLAAA\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\Chapter_5\\PacktLibrary\\PacktLibrary.csproj": {}
+    "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\enterprise-plan\\C_sharp_practice_book\\Chapter_5\\PacktLibrary\\PacktLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\Chapter_5\\PacktLibrary\\PacktLibrary.csproj": {
+    "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\enterprise-plan\\C_sharp_practice_book\\Chapter_5\\PacktLibrary\\PacktLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\Chapter_5\\PacktLibrary\\PacktLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\enterprise-plan\\C_sharp_practice_book\\Chapter_5\\PacktLibrary\\PacktLibrary.csproj",
         "projectName": "PacktLibrary",
-        "projectPath": "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\Chapter_5\\PacktLibrary\\PacktLibrary.csproj",
+        "projectPath": "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\enterprise-plan\\C_sharp_practice_book\\Chapter_5\\PacktLibrary\\PacktLibrary.csproj",
         "packagesPath": "C:\\Users\\VLAAA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\Chapter_5\\PacktLibrary\\obj\\",
+        "outputPath": "C:\\Users\\VLAAA\\OneDrive\\Рабочий стол\\enterprise-plan\\C_sharp_practice_book\\Chapter_5\\PacktLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VLAAA\\AppData\\Roaming\\NuGet\\NuGet.Config",
